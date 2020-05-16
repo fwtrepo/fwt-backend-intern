@@ -13,4 +13,4 @@
 - [Стандарты наименования](https://github.com/dom1no/fwt-standards/blob/master/proposed/db-naming.md)
 
 ---
-→ [2. Laravel, миграции и модели](#)
+→ [2. Laravel, миграции и модели](mission-2.md)
