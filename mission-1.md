@@ -12,6 +12,5 @@
 - [Нормализация БД раз](https://github.com/codedokode/pasta/blob/master/db/normalization.md) и [два](https://habr.com/ru/post/254773/)
 - [Стандарты наименования](https://github.com/dom1no/fwt-standards/blob/master/proposed/db-naming.md)
 
-
 ---
 → [2. Laravel, миграции и модели](#)
