@@ -19,4 +19,4 @@
 - [Relationship](https://laravel.com/docs/5.8/eloquent-relationships)
 
 ---
-[1. Спроектировать БД](mission-1.md) ← | → [3. Управление группами](#)
+[1. Спроектировать БД](mission-1.md) ← | → [3. Управление группами](mission-3.md)
