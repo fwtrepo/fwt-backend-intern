@@ -27,11 +27,11 @@
 
 ### Изучить:
 - [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices#follow-laravel-naming-conventions)
-- [Routing](https://laravel.com/docs/5.8/routing)
-- [Controllers](https://laravel.com/docs/5.8/controllers)
-- [Validation](https://laravel.com/docs/5.8/validation)
-- [Views](https://laravel.com/docs/5.8/views)
-- [Blade](https://laravel.com/docs/5.8/blade)
+- [Routing](https://laravel.com/docs/routing)
+- [Controllers](https://laravel.com/docs/controllers)
+- [Validation](https://laravel.com/docs/validation)
+- [Views](https://laravel.com/docs/views)
+- [Blade](https://laravel.com/docs/blade)
 
 ---
 [2. Laravel, миграции и модели](mission-2.md) ← | → [4. Управление студентами, предметами и оценками](mission-4.md)
