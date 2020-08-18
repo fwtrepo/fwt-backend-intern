@@ -16,8 +16,8 @@
 2. Сделать наполнение тестовыми данными через сидеры и фабрики
 
 ### Изучить:
-- [Query Builder](https://laravel.com/docs/5.8/queries)
-- [Seeding](https://laravel.com/docs/5.8/seeding)
+- [Query Builder](https://laravel.com/docs/queries)
+- [Seeding](https://laravel.com/docs/seeding)
 
 ---
 [3. Управление группами](mission-3.md) ← | → [5. Bootstrap](mission-5.md)

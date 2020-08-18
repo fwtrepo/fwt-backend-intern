@@ -12,11 +12,11 @@
 
 ### Изучить:
 - [Git Workflow](https://github.com/dom1no/fwt-standards/blob/master/accepted/git-workflow.md)
-- [Migrations](https://laravel.com/docs/5.8/migrations)
+- [Migrations](https://laravel.com/docs/migrations)
 - [PSR-1](https://www.php-fig.org/psr/psr-1/) (ru - [PSR-1](https://svyatoslav.biz/misc/psr_translation/#_PSR-1))
 - [PSR-12](https://www.php-fig.org/psr/psr-12/) (ru - ?пока не нашел)
-- [Eloquent](https://laravel.com/docs/5.8/eloquent)
-- [Relationship](https://laravel.com/docs/5.8/eloquent-relationships)
+- [Eloquent](https://laravel.com/docs/eloquent)
+- [Relationship](https://laravel.com/docs/eloquent-relationships)
 
 ---
 [1. Спроектировать БД](mission-1.md) ← | → [3. Управление группами](mission-3.md)
